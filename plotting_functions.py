@@ -1,3 +1,5 @@
+# co-author: Steven Grandelius
+
 from numpy import *
 from pylab import *
 import os
